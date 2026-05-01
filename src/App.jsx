@@ -440,6 +440,8 @@ function ConvertResultScreen({ selectedLang, onBack, onNext }) {
           </div>
         </div>
 
+        <p className="reading-guide">黙読または音読してみましょう。</p>
+
         <div className="result-block">
           <p className="result-label">スペイン語</p>
           <div className="result-card pink">
