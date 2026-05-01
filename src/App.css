@@ -618,11 +618,11 @@
 }
 
 .reading-guide {
-  margin: 8px 0;
+  margin: 4px 0 4px;
   text-align: center;
-  font-weight: 700;
-  font-size: 14px;
-  color: var(--text);
+  font-size: 13px;
+  color: var(--sub-text);
+  line-height: 1.6;
 }
 
 .listen-chip {

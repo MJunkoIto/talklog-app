@@ -433,14 +433,14 @@ function ConvertResultScreen({ selectedLang, onBack, onNext }) {
       <PageHeader title="変換結果" onBack={onBack} />
 
       <div className="page-body">
+        <p className="reading-guide">翻訳された文章を黙読、または音読してみましょう。</p>
+
         <div className="result-block">
           <p className="result-label">あなたの日本語</p>
           <div className="result-card pink">
             <p className="result-text">{DUMMY_JA}</p>
           </div>
         </div>
-
-        <p className="reading-guide">黙読または音読してみましょう。</p>
 
         <div className="result-block">
           <p className="result-label">スペイン語</p>
