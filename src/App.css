@@ -617,14 +617,6 @@
   color: var(--text);
 }
 
-.reading-guide {
-  margin: 4px 0 4px;
-  text-align: center;
-  font-size: 13px;
-  color: var(--sub-text);
-  line-height: 1.6;
-}
-
 .listen-chip {
   align-self: flex-start;
   display: inline-flex;
